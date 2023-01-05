@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.text-prymary{
+    color: #FD6E0A;
+   }
+   .btn-praimary{
+  color: antiquewhite;
+  font-weight: 700;
+  font-size: 20px;
+  height: 64px;
+  border: 0;
+  padding: 18px 36px;
+  border-radius: 5px;
+  background: #FD6E0A;
+
+   }
+   
+   /*header and navgision style*/
+   .header{
+    background: #FFF8F3;
+   background-image: url('background: url(1699492_P3OLGJ1.png);');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+   }
+   nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 225px;
+   }
+   .nav-title{
+    font-weight: 800px;
+    font-size: 45px;
+   }
+   nav ul{
+    display: flex;
+    align-items: center;
+   }
+   nav li{
+    list-style: none;
+    margin-left: 50px;
+   }
+   /*banner style*/
+   .banner{
+    margin: 0 200px;
+  align-items: center;
+  display: flex;
+   }
+   .mediam-m{
+    font-size: 45px;
+   font-weight: 700;
+   }
+   .big-b{
+    font-size: 70px;
+   margin-bottom: 15px;
+   font-weight: 600;
+
+   }
+   .mini-p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+
+   }
+   main{
+max-width: 1140px;
+margin: 0 auto;
+   }
+   /*about*/
+   .about{
+    margin-top: 130px;
+    background: #FFF8F3;
+border-radius: 10px;
+padding: 130px 150px;
+   }
+   .seation-taitel{
+    text-align: center;
+    margin-bottom: 30px;
+   }
+   .seation-description{
+color: #757575;
+font-size: 18px;
+margin-bottom: 30px;
+   }
+   .aboute-info-container{
+    display: flex;
+    justify-content: space-around;
+   }
+  .about .info-title{
+    font-size: 20px;
+    color: #757575;
+  }
+   .info-decpriton{
+    font-weight: 700;
+    font-size: 20px;
+color: #474747;
+}

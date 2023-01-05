@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+   /*header and navgision style*/
+   .nav-title{
+    font-weight: 800px;
+    font-size: 45px;
+   }
+   .text-prymary{
+    color: #FD6E0A;
+   }
